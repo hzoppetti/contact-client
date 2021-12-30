@@ -3,10 +3,13 @@
 This is a sample project that allows the user to create a simple contact list.
 
 ### Prerequisites
-This app needs the backend Node application [contact-app](https://github.com/hzoppetti/contact-app) as well as a
-PostgreSQL database connection.
+This app needs:
 
-*Note: The PostgreSQL setup instructions are in the Node contact-app application.*
+* [Node](https://nodejs.org/en/download/)
+* The backend application [contact-app](https://github.com/hzoppetti/contact-app)
+* A PostgreSQL database connection.
+
+*Note: The PostgreSQL setup instructions are in the contact-app application.*
 
 ## Quick Setup
 
